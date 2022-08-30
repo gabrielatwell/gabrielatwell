@@ -1,0 +1,5 @@
+- 👋 Hi, I’m gabriel.
+- 👀 I’m interested in 2d game development in JavaScript.
+- 🌱 I’m currently learning how to code.
+- 💞️ I’m looking to collaborate on projects and games.
+- 📫 How to reach me: email: gatwell702@gmail.com.
